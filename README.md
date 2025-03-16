@@ -31,12 +31,12 @@ The `PlayList` class represents a collection of songs in the form of linked list
 
 #### Features of `PlayList` class:
 
---- Adding Songs to Playlist
---- Removing Songs by Name
---- Checking if a Song Already Exists
---- Clearing the Entire Playlist
---- Tracking the Current Song (Cursor)
---- Displaying All Songs in the Playlist
+- Adding Songs to Playlist
+- Removing Songs by Name
+- Checking if a Song Already Exists
+- Clearing the Entire Playlist
+- Tracking the Current Song (Cursor)
+- Displaying All Songs in the Playlist
 
 ### Node:
 
